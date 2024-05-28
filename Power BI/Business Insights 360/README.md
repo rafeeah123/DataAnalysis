@@ -20,9 +20,8 @@ As AtliQ Hardware experiences rapid growth, they're venturing into the world of 
 - Supply Chain View
 
 
-### [Live Dashboard]([https://github.com/rafeeah123/medical_data_project](https://app.powerbi.com/view?r=eyJrIjoiYTQzYWQzNjAtZDdhMy00Njk3LWEwMjMtMjg3YzY0YWQ5MDI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
-
-### [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7200899690412851201/)
+#### [Live Dashboard]([https://github.com/rafeeah123/medical_data_project](https://app.powerbi.com/view?r=eyJrIjoiYTQzYWQzNjAtZDdhMy00Njk3LWEwMjMtMjg3YzY0YWQ5MDI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+#### [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7200899690412851201/)
 
 
   
